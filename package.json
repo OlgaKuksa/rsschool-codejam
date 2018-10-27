@@ -1,0 +1,14 @@
+{
+  "name": "rsschool-codejam",
+  "version": "1.0.0",
+  "description": "\"CodeJam-3 project\"",
+  "main": "index.js",
+  "repository": "https://github.com/OlgaKuksa/rsschool-codejam",
+  "author": "OlgaKuksa <firsty@tut.by>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0"
+  }
+}
