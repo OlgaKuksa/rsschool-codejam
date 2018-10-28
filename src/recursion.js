@@ -10,6 +10,5 @@ module.exports = function recursion(treeObj) {
       if (obj.right) setPathLengthValuesPairs(obj.right, level+1);
   };
   setPathLengthValuesPairs(treeObj, 0);
-  console.log(Object.values(pairedObjects));
   return Object.values(pairedObjects);
 };
